@@ -9,5 +9,5 @@
 echo "Hi all"
 echo $VARIABLE
 a="a b c d"
-
+echo "Ha ah"
 ```
